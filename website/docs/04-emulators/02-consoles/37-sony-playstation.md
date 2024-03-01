@@ -10,7 +10,7 @@ slug: /emulators/psx
 - Emulator: **lr-pcsx-rearmed**, km_duckswanstation_xtreme_amped, PCSX-ReARMed standalone
 - Rom Folder: `PS`
 - Extensions: `.chd` `.pbp` `.bin/.cue` `.img` `.mdf` `.toc` `.cbn` `.m3u` `.ccd` (must be lowercase)
-- Bios: `PSXONPSP660.bin`, `scph101.bin`, `scph7001.bin`, `scph5501.bin`, `scph1001.bin`
+- Bios: `PSXONPSP660.bin`, `scph1001.bin`, `scph7001.bin`, `scph5501.bin`, `scph1001.bin`
 - Recommended Romset: `"files for CHD-PSX-USA"`
 
 Roms in `.bin` format _must_ have accompanying `.cue` files or they will not be displayed.  
